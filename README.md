@@ -1,3 +1,6 @@
+## License
+   © 2026 Elhabchi Mohammed. All Rights Reserved.
+
 # pharmacie_app
 
 Application de gestion de pharmacie : API Express/Mongoose et interface React/Vite.
